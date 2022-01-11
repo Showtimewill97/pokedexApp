@@ -22,4 +22,4 @@ As seguintes ferramentas foram usadas na construção deste projeto:
  <br />
  <sub><b>Wilgner Souza</b></sub></a> <a href="https://www.linkedin.com/in/wilgner-souza-stw97/" title="Danki Code">💻</a>
 
-Feito com ❤️ por Wilgner Souza 👋🏽 </br>Entre em contato!
+Feito por Wilgner Souza 👋🏽 </br>Entre em contato!
