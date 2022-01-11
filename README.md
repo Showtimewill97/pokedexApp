@@ -10,8 +10,8 @@ As seguintes ferramentas foram usadas na construção deste projeto:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Requisições AJAX]
-- [Manipulação de DOM]
+- Requisições AJAX :earth_americas:
+- Manipulação de DOM 	:construction:
 
 
 ### Autor
