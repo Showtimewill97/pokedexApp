@@ -3,7 +3,7 @@ um app onde você pode especificar quantos pokemons quer listar na tabela via AP
 
 :heavy_check_mark: Projeto concluído :heavy_check_mark:
 
-### 🛠 Tecnologias e Técnicas Utilizadas
+## 🛠 Tecnologias e Técnicas Utilizadas
 
 As seguintes ferramentas foram usadas na construção deste projeto:
 
@@ -13,9 +13,9 @@ As seguintes ferramentas foram usadas na construção deste projeto:
 - Requisições AJAX ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=1572b6&logo=jquery)
 - Manipulação de DOM 	:construction:
 
-
-### Autor
 ---
+
+## Autor
 
 <a href="https://www.linkedin.com/in/wilgner-souza-stw97/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/wilgnersouza" width="100px;" alt=""/>
