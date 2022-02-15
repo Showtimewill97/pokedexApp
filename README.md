@@ -3,6 +3,8 @@ um app onde você pode especificar quantos pokemons quer listar na tabela via AP
 
 :heavy_check_mark: Projeto concluído :heavy_check_mark:
 
+---
+
 ## 🛠 Tecnologias e Técnicas Utilizadas
 
 As seguintes ferramentas foram usadas na construção deste projeto:
@@ -15,14 +17,14 @@ As seguintes ferramentas foram usadas na construção deste projeto:
 
 ---
 
-## Autor
+## Autor ✍
 
 <a href="https://www.linkedin.com/in/wilgner-souza-stw97/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/wilgnersouza" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/wilgnersouza" width="100px;" alt="Wilgner Souza"/>
  <br />
- <sub><b>Wilgner Souza</b></sub></a> <a href="https://www.linkedin.com/in/wilgner-souza-stw97/" title="Danki Code">💻</a>
+ <sub><b>Wilgner Souza</b></sub></a> <a href="https://www.linkedin.com/in/wilgner-souza-stw97/" title="Linkedin Wilgner">💻</a>
 
-Feito por Wilgner Souza 👋🏽 </br>
+Feito por Wilgner Souza 😉 </br>
 
 Entre em contato! 👇👇 </br>
 
