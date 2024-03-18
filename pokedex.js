@@ -19,7 +19,7 @@ function pegaPokemons(quantidade){
             .then(pokemonSingle =>{
                 pokemons.push({nome:val.name, imagem:pokemonSingle.sprites.front_default});
 
-                if (pokemons.length ==quantidade){
+                if (pokemons.length == quantidade){
                     //terminamos nossas requisições
 
                     var pokemonBoxes = document.querySelector('.pokemon-boxes');
