@@ -13,8 +13,7 @@ As seguintes ferramentas foram usadas na construção deste projeto:
 - [CSS](https://www.w3schools.com/cssref/) ![](https://img.shields.io/badge/--1572b6.svg?style=flat&logoColor=FAFAFF&logo=css3)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ![](https://img.shields.io/badge/--F7DF1E.svg?style=flat&logoColor=0D0D0D&logo=javascript)
 - Requisições AJAX ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=1572b6&logo=jquery)
-- Manipulação de DOM 	:construction:
-
+- Manipulação de DOM
 ---
 
 ## Autor ✍
